@@ -1,0 +1,7 @@
+# ignore everything
+*
+# but keep folders, source files, notes and this file
+!*/
+!*.cpp
+!*.md
+!.gitignore
